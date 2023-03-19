@@ -1,0 +1,30 @@
+body {
+  background-image: url(img/business-2717066.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1100pt;
+}
+.wrap {
+  width: 40%;
+  margin: auto;
+  color: white;
+  border-radius: 10px;
+  font-family: comic sans ms;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.container {
+  margin: 11%;
+}
+
+table {
+  margin: auto;
+}
+table td {
+  padding: 6px;
+}
+
+button {
+  width: 50px;
+  height: 30px;
+  border-radius: 7px;
+}
